@@ -4,6 +4,16 @@
 Command-line program that brute forces an input hash value of password
 
 
+## Features
+
+- User friendly
+- Brute force capability
+- Cross-platform compatibility
+- Supports multiple hashing algorithms
+
+
+
+
 ## Run Locally
 
 Clone the project
@@ -25,16 +35,6 @@ Execute the program
 ```
 
 
-## Features
-
-- User friendly
-- Brute force capability
-- Cross-platform compatibility
-- Supports multiple hashing algorithms
-
-
-
-
 ## Screenshots
 
 
@@ -53,5 +53,4 @@ Execute the program
 Here are some similar projects
 
 - [Vulnerability Scanner](https://github.com/Ameya29/Vulnerability-Scanner)
-
 
